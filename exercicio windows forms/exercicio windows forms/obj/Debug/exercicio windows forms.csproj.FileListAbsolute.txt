@@ -1,0 +1,10 @@
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe.config
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.exe
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\bin\Debug\exercicio windows forms.pdb
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Form1.resources
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio_windows_forms.Properties.Resources.resources
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.exe
+C:\Users\Alunos\source\repos\exercicio windows forms\exercicio windows forms\obj\Debug\exercicio windows forms.pdb
